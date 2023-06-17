@@ -1,8 +1,8 @@
+use clap::ValueEnum;
 use once_cell::sync::Lazy;
 use serde::{Deserialize, Serialize};
-use std::fs::File;
 
-#[derive(Serialize, Deserialize, PartialEq)]
+#[derive(Serialize, Deserialize, PartialEq, Copy, Clone, Debug, ValueEnum)]
 pub enum Language {
     English,
     Ukrainian,
