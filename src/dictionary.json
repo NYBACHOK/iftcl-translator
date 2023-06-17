@@ -1,0 +1,366 @@
+[
+  {
+    "key": "q",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "q"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "й"
+      }
+    ]
+  },
+  {
+    "key": "w",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "w"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "ц"
+      }
+    ]
+  },
+  {
+    "key": "e",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "e"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "у"
+      }
+    ]
+  },
+  {
+    "key": "r",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "r"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "к"
+      }
+    ]
+  },
+  {
+    "key": "t",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "t"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "е"
+      }
+    ]
+  },
+  {
+    "key": "y",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "y"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "н"
+      }
+    ]
+  },
+  {
+    "key": "u",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "u"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "г"
+      }
+    ]
+  },
+  {
+    "key": "i",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "i"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "ш"
+      }
+    ]
+  },
+  {
+    "key": "o",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "o"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "щ"
+      }
+    ]
+  },
+  {
+    "key": "p",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "p"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "з"
+      }
+    ]
+  },
+  {
+    "key": "a",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "a"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "ф"
+      }
+    ]
+  },
+  {
+    "key": "s",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "s"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "і"
+      }
+    ]
+  },
+  {
+    "key": "d",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "d"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "в"
+      }
+    ]
+  },
+  {
+    "key": "f",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "f"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "а"
+      }
+    ]
+  },
+  {
+    "key": "g",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "g"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "п"
+      }
+    ]
+  },
+  {
+    "key": "h",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "h"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "р"
+      }
+    ]
+  },
+  {
+    "key": "j",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "j"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "о"
+      }
+    ]
+  },
+  {
+    "key": "k",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "k"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "л"
+      }
+    ]
+  },
+  {
+    "key": "l",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "l"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "д"
+      }
+    ]
+  },
+  {
+    "key": "z",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "z"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "я"
+      }
+    ]
+  },
+  {
+    "key": "x",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "x"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "ч"
+      }
+    ]
+  },
+  {
+    "key": "c",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "c"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "с"
+      }
+    ]
+  },
+  {
+    "key": "v",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "v"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "м"
+      }
+    ]
+  },
+  {
+    "key": "b",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "b"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "и"
+      }
+    ]
+  },
+  {
+    "key": "n",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "n"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "т"
+      }
+    ]
+  },
+  {
+    "key": "m",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "m"
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "ь"
+      }
+    ]
+  },
+  {
+    "key": ",",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": ","
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "б"
+      }
+    ]
+  },
+  {
+    "key": ".",
+    "translations": [
+      {
+        "language": "English",
+        "symbol": "."
+      },
+      {
+        "language": "Ukrainian",
+        "symbol": "ю"
+      }
+    ]
+  }
+]
